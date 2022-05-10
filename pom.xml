@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.202.80.44:8081/repository/eBay-jenkins-bts-releases/</url>
+	      <url>http://44.203.253.188:8081/repository/eBay-jenkins-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.202.80.44:8081/repository/ebay-jenkins-bts-snapshot/</url>
+	      <url>http://44.203.253.188:8081/repository/ebay-jenkins-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
